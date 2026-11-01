@@ -1,0 +1,9 @@
+{
+  "type": "preload-native",
+  "name": "Ace Cull",
+  "author": "Ace",
+  "description": "Entity culling and RAM optimizer for Minecraft Bedrock 1.26.60.",
+  "version": "1.0.0",
+  "entry": "libace_cull.so",
+  "minecraft_versions": []
+}
